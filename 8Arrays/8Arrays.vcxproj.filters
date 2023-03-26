@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\8.1">
+      <UniqueIdentifier>{8e50e959-5b65-4904-b395-0685c6cc8b33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\8.2">
+      <UniqueIdentifier>{de39cf10-992a-4bd7-a6a1-9ab1fe6df252}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\8.2\student">
+      <UniqueIdentifier>{dc6a5005-9bb5-4abd-bdd9-9e718de1d491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\8.3">
+      <UniqueIdentifier>{c6328b51-2e5d-473c-80de-127de325aaf2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Example8.1_1.cpp">
+      <Filter>Source Files\8.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.1_2.cpp">
+      <Filter>Source Files\8.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.1_3.cpp">
+      <Filter>Source Files\8.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.1_4_Circle.cpp">
+      <Filter>Source Files\8.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files\8.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.1_5.cpp">
+      <Filter>Source Files\8.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.2_1.cpp">
+      <Filter>Source Files\8.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Examle8.2_2.cpp">
+      <Filter>Source Files\8.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.2_3.cpp">
+      <Filter>Source Files\8.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.2_4.cpp">
+      <Filter>Source Files\8.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.h">
+      <Filter>Source Files\8.2\student</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files\8.2\student</Filter>
+    </ClCompile>
+    <ClCompile Include="Student_application.cpp">
+      <Filter>Source Files\8.2\student</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.3_1.cpp">
+      <Filter>Source Files\8.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.4_2.cpp">
+      <Filter>Source Files\8.3</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTransformation.cpp">
+      <Filter>Source Files\8.3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Circle.h">
+      <Filter>Source Files\8.1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
