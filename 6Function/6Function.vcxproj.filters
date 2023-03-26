@@ -57,5 +57,50 @@
     <ClCompile Include="Example6.2_10.cpp">
       <Filter>Source Files\6.2</Filter>
     </ClCompile>
+    <ClCompile Include="Example6.2_11.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_12.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_13.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_14.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_15.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_16.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_17.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_18.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_19.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_20.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_21.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_22.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_23.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_25.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.2_26.cpp">
+      <Filter>Source Files\6.2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
