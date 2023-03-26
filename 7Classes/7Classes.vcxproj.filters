@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\7.2">
+      <UniqueIdentifier>{70842d83-271c-4cee-86e8-7aa7764fba72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.3">
+      <UniqueIdentifier>{4b23aee6-39a8-4cf4-a55d-c3422a51c9d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.4">
+      <UniqueIdentifier>{f6716b49-0fb7-43fb-b918-8bb05e6d1d1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.5">
+      <UniqueIdentifier>{a345e770-849f-420f-8786-43769a79571d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.5\Circle">
+      <UniqueIdentifier>{e51ee6ad-856c-496e-b754-7930624e66c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.7">
+      <UniqueIdentifier>{3e8cd6aa-3786-4cb9-aa57-68163faf39f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.7\fraction">
+      <UniqueIdentifier>{62ec7f73-f83d-458d-929f-66a6ce7ce4be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7.7\time">
+      <UniqueIdentifier>{40afb2f7-440b-4401-adb4-1d0a673f96c8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Example7.2_1.cpp">
+      <Filter>Source Files\7.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.3_1.cpp">
+      <Filter>Source Files\7.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.3_2.cpp">
+      <Filter>Source Files\7.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.4_1.cpp">
+      <Filter>Source Files\7.4</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.4_2.cpp">
+      <Filter>Source Files\7.4</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.5_1.cpp">
+      <Filter>Source Files\7.5</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files\7.5\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle_application.cpp">
+      <Filter>Source Files\7.5\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="Fraction.cpp">
+      <Filter>Source Files\7.7\fraction</Filter>
+    </ClCompile>
+    <ClCompile Include="Fraction_application.cpp">
+      <Filter>Source Files\7.7\fraction</Filter>
+    </ClCompile>
+    <ClCompile Include="time.cpp">
+      <Filter>Source Files\7.7\time</Filter>
+    </ClCompile>
+    <ClCompile Include="time_application.cpp">
+      <Filter>Source Files\7.7\time</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Circle.h">
+      <Filter>Source Files\7.5\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="Fraction.h">
+      <Filter>Source Files\7.7\fraction</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
+      <Filter>Source Files\7.7\time</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
