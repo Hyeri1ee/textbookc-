@@ -75,6 +75,9 @@
     <ClCompile Include="ArrayTransformation.cpp">
       <Filter>Source Files\8.3</Filter>
     </ClCompile>
+    <ClCompile Include="homework.cpp">
+      <Filter>Source Files\8.3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Circle.h">

@@ -16,6 +16,18 @@
     <Filter Include="Source Files\9.1">
       <UniqueIdentifier>{ef362106-de8b-4e31-b412-3698d913deae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\9.2">
+      <UniqueIdentifier>{6b5b1c01-9280-445e-8ba9-4a0699dd2d7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9.3">
+      <UniqueIdentifier>{6c6a624c-d639-47b2-8992-a287c33bcd99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\programming design">
+      <UniqueIdentifier>{6ae2528a-7f8b-4e8a-b1f5-46a515db63f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9.4">
+      <UniqueIdentifier>{f02fb5c3-9a9c-4b23-969a-edc182e07b88}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Example9.1_1.cpp">
@@ -24,5 +36,45 @@
     <ClCompile Include="Example9.1_2.cpp">
       <Filter>Source Files\9.1</Filter>
     </ClCompile>
+    <ClCompile Include="Example9.1_3Fraction.cpp">
+      <Filter>Source Files\9.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.2_1.cpp">
+      <Filter>Source Files\9.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.2_2.cpp">
+      <Filter>Source Files\9.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.3_1.cpp">
+      <Filter>Source Files\9.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Fraction.cpp">
+      <Filter>Source Files\9.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.3_2.cpp">
+      <Filter>Source Files\9.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.3_3.cpp">
+      <Filter>Source Files\9.3</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.3_4.cpp">
+      <Filter>Source Files\9.3</Filter>
+    </ClCompile>
+    <ClCompile Include="course.h">
+      <Filter>Source Files\programming design</Filter>
+    </ClCompile>
+    <ClCompile Include="Couse.cpp">
+      <Filter>Source Files\programming design</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fraction.h">
+      <Filter>Source Files\9.3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Example9.4_1__9.14.cpp">
+      <Filter>Source Files\9.4</Filter>
+    </None>
   </ItemGroup>
 </Project>

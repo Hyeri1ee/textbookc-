@@ -60,10 +60,10 @@ int main() {
 	colTransform(originArray, 2, colArray);
 	cout << "Original Array " << endl;
 	pritnTwoDimensional(originArray, 2);
-	cout << "Row transformed array " << endl;
+	cout << "Row transformed array:		";
 	printOneDimensional(rowArray, 8);
 
-	cout << "Col transformed array " << endl;
+	cout << "Col transformed array		";
 	printOneDimensional(colArray, 8);
 	return 0;
 }

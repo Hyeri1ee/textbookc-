@@ -48,7 +48,7 @@ int main() {
 	findTestAverage(scores, stdAver, rowSize, colSize);
 
 	//Pring headings
-	cout << "		Test Scores				stdAver" << endl;
+	cout << "		Test Scores			 stdAver" << endl;
 	cout << " ------------------------------------   ----------" << endl;
 	for (int i = 0; i < rowSize; i++)
 	{
